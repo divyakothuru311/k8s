@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: springpetclinic
-          image: divyak123/jenkinspetclinic:latest
+          image: divyak123/jenkinspetclinic:21
           ports:
             - containerPort: 8080
               protocol: TCP
